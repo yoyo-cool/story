@@ -3,3 +3,4 @@ i am a donkey
 i am a bat
 i dont know
 hai
+bye
