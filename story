@@ -1,3 +1,1 @@
-my story
-my self
-haigi
+hai
